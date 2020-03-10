@@ -13,7 +13,7 @@ How to use in a **XOD patch**:
 #include <I2Cdev.h>
 #include <MPU6050.h>
 
-// FIY: The following header files already include the MPU6050.h file
+// FIY: The following header files are already include the MPU6050.h file
 
 //#include <MPU6050_6Axis_MotionApps_V6_12.h>
 //#include <MPU6050_6Axis_MotionApps20.h>
